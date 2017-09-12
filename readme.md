@@ -1,0 +1,1 @@
+Run server with:  `$ python main.py` and connect with telnet or netcat: `nc -v localhost 9777`
